@@ -1,0 +1,3 @@
+# Core manager runs out of the box with 0 external dependencies (pure Python 3.8+)
+# Optional dependencies for AI generation & styling:
+google-genai>=0.1.0
